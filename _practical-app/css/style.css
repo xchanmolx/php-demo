@@ -1,0 +1,83 @@
+/*
+
+Application for Students : Practical App
+Date: Created Jan 1 2015
+Creator: Edwin Diaz from EdwinDiaz.com
+Email: Edwin@edwindiaz.com
+All Rights Reserved EdwinDiaz.com
+
+
+*/
+
+
+body {
+/*background-color: #cecece;*/
+}
+
+.nav li {
+box-shadow: 0px 2px 4px 1px;
+}
+
+
+
+
+.hideThis {
+
+display: none;
+
+}
+
+ ul {
+
+list-style: none !important;
+
+}
+
+.main-content {
+
+
+min-height: 240px;
+background: #FFF;
+padding: 20px;
+border-radius: 5px;
+word-wrap: break-word;
+box-shadow: 0px 1px 9px 3px;
+}
+
+
+.content aside  ul li {
+background: #408B74;
+padding: 4px;
+border-radius: 5px;
+margin-bottom: 6px;
+
+}
+
+.content aside ul li a {
+
+color: #000;
+font-weight: bold;
+
+}
+
+
+.content aside ul li a:hover {
+
+background: #2F9D3D;
+
+
+}
+
+.activeLink a {
+
+color: #FFF !important;
+text-transform: uppercase;
+
+}
+
+.resources {
+
+margin-top: 2%;
+
+}
+
